@@ -2,5 +2,6 @@
 
 'use strict';
 
-// require('../lib/cli.js')(process)
-console.log('hello popsite cli new version.');
+console.log('Pop init in ./bin/pop.js');
+
+require('./lib/pop')();
