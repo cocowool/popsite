@@ -4,4 +4,4 @@
 
 console.log('Pop init in ./bin/pop.js');
 
-require('./lib/pop')();
+require('../lib/pop')();
