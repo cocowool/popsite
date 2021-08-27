@@ -3,4 +3,4 @@
 'use strict';
 
 // require('../lib/cli.js')(process)
-console.log('hello popsite cli');
+console.log('hello popsite cli new version.');
