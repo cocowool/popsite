@@ -16,5 +16,8 @@
     "website"
   ],
   "author": "Wang Shiqiang",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies":{
+    "esm": "^3.2.18"
+  }
 }
