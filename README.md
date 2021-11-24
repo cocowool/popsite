@@ -6,7 +6,10 @@ Another static website generator.
 
 ```
 $ npx pop --help
+$ npx pop markdown_file.md --ouput html_file.html
 ```
+
+
 
 # Develop Log
 
