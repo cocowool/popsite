@@ -18,6 +18,7 @@
   "author": "Wang Shiqiang",
   "license": "MIT",
   "dependencies":{
-    "esm": "^3.2.18"
+    "esm": "^3.2.18",
+    "bluebird": "^3.7.2"
   }
 }
