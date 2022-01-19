@@ -6,10 +6,20 @@ Another static website generator.
 
 ```
 $ npx pop --help
-$ npx pop markdown_file.md --ouput html_file.html
+$ npx pop --markdown-file markdown_file.md --ouput html_file.html
 ```
+
+# pop init
+
+The Command Init your working folder structure.
+
+.
+|---- source    # Source Folder for markdown files
+|---- public    # Public folder which will be deployed to production
+|---- themes    # Themes Folder
 
 # Develop Log
 
+* 2022-01-19    Support specify output file name
 * 2021-11-27    Make a little change
 
