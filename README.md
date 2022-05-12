@@ -23,3 +23,6 @@ The Command Init your working folder structure.
 * 2022-01-19    Support specify output file name
 * 2021-11-27    Make a little change
 
+# Reference
+
+* [Node.js学习一，启动一个http服务器](https://www.jianshu.com/p/5e1b407b1a9d)
