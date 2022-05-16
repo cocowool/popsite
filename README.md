@@ -9,6 +9,11 @@ $ npx pop --help
 $ npx pop --markdown-file markdown_file.md --ouput html_file.html
 ```
 
+# Feature
+
+* easy and simple to generate static website
+* compatible with hexo themes
+
 # pop init
 
 The Command Init your working folder structure.
