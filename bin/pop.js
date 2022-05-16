@@ -6,4 +6,4 @@
 // console.log('Begin testing popsite / pop command');
 // console.log(__dirname);
 
-require('../lib/cli')();
+require('../lib/cli')(require('optimist').argv);

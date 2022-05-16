@@ -20,6 +20,7 @@ The Command Init your working folder structure.
 
 # Develop Log
 
+* 2022-05-12    Support localhost server
 * 2022-01-19    Support specify output file name
 * 2021-11-27    Make a little change
 
