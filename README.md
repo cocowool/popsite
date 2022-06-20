@@ -13,6 +13,7 @@ $ npx pop --markdown-file markdown_file.md --ouput html_file.html
 
 * easy and simple to generate static website
 * compatible with hexo themes
+* @TODO support user custom path generator default by date
 
 # pop init
 
